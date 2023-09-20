@@ -1,1 +1,3 @@
 *.txt
+src/__pycache__
+src/*.secret
