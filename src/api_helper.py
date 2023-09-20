@@ -1,6 +1,10 @@
 from mastodon import Mastodon
 
-
+# NOTE: not all of the variable here are needed. most were 
+# included during testing of the api instance and have not been removed. 
+########################################################
+# Static variables for API instance 
+########################################################
 def getUrl():
     instance_url = 'https://mastodon.social'
     return instance_url
@@ -42,5 +46,9 @@ def createApiInst(token, instance_url):
     )
     return mastodon
 
+
+########################################################
+# Mastodon Instance Functions 
+########################################################
 def postToot(mastodon, message): 
     mastodon.status_post(message)
