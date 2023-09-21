@@ -9,8 +9,8 @@ def getUrl():
     instance_url = 'https://mastodon.social'
     return instance_url
 
-def getUserName():
-    username = "sfberrio@asu.edu"
+def setUserName(user):
+    username = user
     return username
 
 ########################################################
