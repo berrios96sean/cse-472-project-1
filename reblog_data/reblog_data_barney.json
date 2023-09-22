@@ -1,0 +1,63 @@
+[
+    {
+        "id": 108194464139282922,
+        "username": "Wabbit",
+        "acct": "Wabbit",
+        "display_name": "McWabbit\ud83d\udc30",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-04-25T00:00:00+00:00",
+        "note": "<p>\ud83c\uddf3\ud83c\uddf1\ud83c\uddea\ud83c\uddfa<br />Bird app and reddit refugee. <br />Cat dad. Scifi, anime, tech. Casual PC and board gamer. <br />Am a bit of an activist myself.<br />Stand with \ud83c\uddfa\ud83c\udde6<br />Glory to Hong Kong</p><p>NOTE: Posts/boosts from this account can vary greatly in topic which interest *me*. Follow at your own discretion.</p><p>Profile picture is a cartoon version of myself in the Star Trek: Lower Decks style.<br />Banner picture is a group shot of Kessoku Band performing on stage, from the anime Bocchi the Rock!</p>",
+        "url": "https://mastodon.social/@Wabbit",
+        "uri": "https://mastodon.social/users/Wabbit",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/194/464/139/282/922/original/23e3a0c33054bdcf.jpg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/194/464/139/282/922/original/23e3a0c33054bdcf.jpg",
+        "header": "https://files.mastodon.social/accounts/headers/108/194/464/139/282/922/original/6aadd77fc648f9e2.jpg",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/194/464/139/282/922/original/6aadd77fc648f9e2.jpg",
+        "followers_count": 165,
+        "following_count": 206,
+        "statuses_count": 5273,
+        "last_status_at": "2023-09-22T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "United 24",
+                "value": "<a href=\"https://u24.gov.ua/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">u24.gov.ua/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Star Citizen referral",
+                "value": "<a href=\"https://robertsspaceindustries.com/enlist?referral=STAR-Z6KK-JLJJ\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">robertsspaceindustries.com/enl</span><span class=\"invisible\">ist?referral=STAR-Z6KK-JLJJ</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 109306535115819993,
+        "username": "danwentzel",
+        "acct": "danwentzel@urbanists.social",
+        "display_name": "Dan Wentzel \ud83c\udff3\ufe0f\u200d\ud83c\udf08 (on Mastodon)",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-08T00:00:00+00:00",
+        "note": "<p>Actor, Writer, Transit Advocate, Gay and Proud, Disco/House/EDM, animal lover, Practitioner of the Science of Mind and Spirit, Angel in disguise</p>",
+        "url": "https://urbanists.social/@danwentzel",
+        "uri": "https://urbanists.social/users/danwentzel",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/306/535/115/819/993/original/53f3043f748f3389.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/306/535/115/819/993/original/53f3043f748f3389.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/306/535/115/819/993/original/eeec5d2ea31148f2.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/306/535/115/819/993/original/eeec5d2ea31148f2.jpg",
+        "followers_count": 2178,
+        "following_count": 2553,
+        "statuses_count": 3785,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": []
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 108197697030194387,
+        "username": "AliceMarshall",
+        "acct": "AliceMarshall@mastodon.online",
+        "display_name": "Alice Marshall",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-04-26T00:00:00+00:00",
+        "note": "<p>retired, living in <a href=\"https://mastodon.online/tags/washingtondc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>washingtondc</span></a>; author of The precinct captain\u2019s guide to political victory, working on a book about <a href=\"https://mastodon.online/tags/Christianity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Christianity</span></a> and <a href=\"https://mastodon.online/tags/Revolution\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Revolution</span></a></p>",
+        "url": "https://mastodon.online/@AliceMarshall",
+        "uri": "https://mastodon.online/users/AliceMarshall",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/197/697/030/194/387/original/9e372a47e2be9d04.jpeg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/197/697/030/194/387/original/9e372a47e2be9d04.jpeg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/108/197/697/030/194/387/original/abea72d6d7bc278f.jpeg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/108/197/697/030/194/387/original/abea72d6d7bc278f.jpeg",
+        "followers_count": 947,
+        "following_count": 538,
+        "statuses_count": 24997,
+        "last_status_at": "2023-09-22T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "The precinct captain's guide to political victory",
+                "value": "<a href=\"https://www.amazon.com/dp/B01M4IG914/ref=cm_sw_r_tw_dp_7THERPPM4946S5EC48Q6\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">amazon.com/dp/B01M4IG914/ref=c</span><span class=\"invisible\">m_sw_r_tw_dp_7THERPPM4946S5EC48Q6</span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

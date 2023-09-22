@@ -52,3 +52,6 @@ def createApiInst(token, instance_url):
 ########################################################
 def postToot(mastodon, message): 
     mastodon.status_post(message)
+
+def getReblogs(mastodon,id):
+    mastodon.status_reblogged_by(id)

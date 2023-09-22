@@ -1,0 +1,92 @@
+[
+    {
+        "id": 109979192301254392,
+        "username": "rainbowdragon",
+        "acct": "rainbowdragon@stranger.social",
+        "display_name": "RainbowDragon",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2023-03-07T00:00:00+00:00",
+        "note": "<p>Vegan lesbian writer of GLBTQ+ fantasy novels. I'm also a volunteer tutor for alternative schools on an island outside Seattle; I live with 3 cats and a dog.</p>",
+        "url": "https://stranger.social/@rainbowdragon",
+        "uri": "https://stranger.social/users/rainbowdragon",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/979/192/301/254/392/original/a3e9685df208b43b.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/979/192/301/254/392/original/a3e9685df208b43b.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 38,
+        "following_count": 38,
+        "statuses_count": 779,
+        "last_status_at": "2023-09-19T00:00:00",
+        "emojis": [],
+        "fields": []
+    },
+    {
+        "id": 109842643482086323,
+        "username": "lydiaschoch",
+        "acct": "lydiaschoch",
+        "display_name": "Lydia Schoch",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2023-02-10T00:00:00+00:00",
+        "note": "<p>Science fiction author, social media assistant, and a peaceful soul who wants to admire all of your pet photos\u2026especially if they\u2019re of rabbits. I\u2019m allergic to most furry pets, so I\u2019m living vicariously through everyone who isn\u2019t. \ud83d\udc30</p><p>I also love to boost and toot about art, fitness, food, prehistory (especially Neanderthals), disability, LGBTQ+ life, writing, social justice, and occasional amusing stories from here in Toronto. </p><p><a href=\"https://lydiaschoch.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">lydiaschoch.com/</span><span class=\"invisible\"></span></a> \ud83c\udff3\ufe0f\u200d\ud83c\udf08</p>",
+        "url": "https://mastodon.social/@lydiaschoch",
+        "uri": "https://mastodon.social/users/lydiaschoch",
+        "avatar": "https://files.mastodon.social/accounts/avatars/109/842/643/482/086/323/original/39aa37c366c0e839.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/109/842/643/482/086/323/original/39aa37c366c0e839.jpeg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 822,
+        "following_count": 386,
+        "statuses_count": 6278,
+        "last_status_at": "2023-09-21T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": 109553921206055298,
+        "username": "cwicseolfor",
+        "acct": "cwicseolfor@urbanists.social",
+        "display_name": "cwicseolfor",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-12-19T00:00:00+00:00",
+        "note": "<p>Too rarely, I make stuff.</p>",
+        "url": "https://urbanists.social/@cwicseolfor",
+        "uri": "https://urbanists.social/users/cwicseolfor",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/553/921/206/055/298/original/56405a0a85cdc04e.jpeg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/553/921/206/055/298/original/56405a0a85cdc04e.jpeg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/553/921/206/055/298/original/8f2864bb7cabf180.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/553/921/206/055/298/original/8f2864bb7cabf180.jpg",
+        "followers_count": 195,
+        "following_count": 544,
+        "statuses_count": 4913,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Dilettante polyglot.",
+                "value": "native english, un peu fran\u00e7ais, \u9ede\u9ede\u4e2d\u6587, litt norsk",
+                "verified_at": null
+            },
+            {
+                "name": "Profile photo -",
+                "value": "Six-petaled white flowering crow's poison in the slant-light of sunset on dark grass",
+                "verified_at": null
+            },
+            {
+                "name": "Header -",
+                "value": "Moss growing up between the flagstones in the Forbidden City, Beijing",
+                "verified_at": null
+            }
+        ]
+    }
+]

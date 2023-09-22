@@ -1,0 +1,26 @@
+[
+    {
+        "id": 109483438224222275,
+        "username": "Backtalk9667",
+        "acct": "Backtalk9667@social.linux.pizza",
+        "display_name": "",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-12-09T00:00:00+00:00",
+        "note": "<p>Migrei do masto.pt e do ciberlandia.pt; also from another account on social.linux.pizza .<br>Username auto-generated. Don't take offense.<br>Lisbon &lt;= Aveiro (MIECT/UA) &lt;= Pombal</p>",
+        "url": "https://social.linux.pizza/@Backtalk9667",
+        "uri": "https://social.linux.pizza/users/Backtalk9667",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/483/438/224/222/275/original/b46a9b74e88a3cba.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/483/438/224/222/275/original/b46a9b74e88a3cba.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 112,
+        "following_count": 220,
+        "statuses_count": 204,
+        "last_status_at": "2023-09-18T00:00:00",
+        "emojis": [],
+        "fields": []
+    }
+]

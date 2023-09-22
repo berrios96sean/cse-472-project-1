@@ -1,0 +1,491 @@
+[
+    {
+        "id": 109956901933520159,
+        "username": "ryanvgates",
+        "acct": "ryanvgates",
+        "display_name": "ryanvgates",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "group": false,
+        "created_at": "2023-03-03T00:00:00+00:00",
+        "note": "<p>Husband, dad and Site Reliability Engineer based in South Florida. Interested in biking, transportation, local government, transparency, open source and open data.</p>",
+        "url": "https://mastodon.social/@ryanvgates",
+        "uri": "https://mastodon.social/users/ryanvgates",
+        "avatar": "https://mastodon.social/avatars/original/missing.png",
+        "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 81,
+        "following_count": 238,
+        "statuses_count": 2498,
+        "last_status_at": "2023-09-21T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": 110644801729341601,
+        "username": "Afhessey",
+        "acct": "Afhessey@toad.social",
+        "display_name": "Grandy",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2023-07-01T00:00:00+00:00",
+        "note": "<p>Lifelong Democrat who loves words, ideas, numbers, and science. Boomer with a 30+ year IT career who can comfortably tech.  Justice follower, feminist, atheist, nature lover, grandmother.</p>",
+        "url": "https://toad.social/@Afhessey",
+        "uri": "https://toad.social/users/Afhessey",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/110/644/801/729/341/601/original/7ec26fe8dd205c5c.jpeg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/110/644/801/729/341/601/original/7ec26fe8dd205c5c.jpeg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 27,
+        "following_count": 40,
+        "statuses_count": 521,
+        "last_status_at": "2023-08-25T00:00:00",
+        "emojis": [],
+        "fields": []
+    },
+    {
+        "id": 109367782119269254,
+        "username": "slightwraith",
+        "acct": "slightwraith@newsie.social",
+        "display_name": "The Brute Choir",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-11-18T00:00:00+00:00",
+        "note": "<p>When was the first time<br>You realized the next time<br>Would be last time?</p>",
+        "url": "https://newsie.social/@slightwraith",
+        "uri": "https://newsie.social/users/slightwraith",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/367/782/119/269/254/original/591ace64c96f31a4.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/367/782/119/269/254/original/591ace64c96f31a4.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/367/782/119/269/254/original/fdba74e9d5de92b1.jpeg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/367/782/119/269/254/original/fdba74e9d5de92b1.jpeg",
+        "followers_count": 19,
+        "following_count": 143,
+        "statuses_count": 314,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": []
+    },
+    {
+        "id": 108215195990704073,
+        "username": "Brett_E_Carlock",
+        "acct": "Brett_E_Carlock@mastodon.online",
+        "display_name": "Brett Edmond Carlock",
+        "locked": true,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-04-27T00:00:00+00:00",
+        "note": "<p>\u2764\ufe0f: OpenDroneMap / UAV4Geo / sUAS / FOSS GIS / Full-Spectrum Photography / OpenTheremin / Alpine Linux / Teracube</p>",
+        "url": "https://mastodon.online/@Brett_E_Carlock",
+        "uri": "https://mastodon.online/users/Brett_E_Carlock",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/108/215/195/990/704/073/original/888e28846dee912d.png",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/108/215/195/990/704/073/original/888e28846dee912d.png",
+        "header": "https://files.mastodon.social/cache/accounts/headers/108/215/195/990/704/073/original/4a282b1340e89fc7.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/108/215/195/990/704/073/original/4a282b1340e89fc7.jpg",
+        "followers_count": 230,
+        "following_count": 1064,
+        "statuses_count": 2664,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "OpenDroneMap",
+                "value": "<a href=\"https://community.opendronemap.org/invites/DGsLLWf1tr\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">community.opendronemap.org/inv</span><span class=\"invisible\">ites/DGsLLWf1tr</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Now listening (MastoBrainz)",
+                "value": "Snakedriver by The Jesus and Mary Chain",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 109416673919496501,
+        "username": "bmacDonald94",
+        "acct": "bmacDonald94@hostux.social",
+        "display_name": "bmacDonald94",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-11-27T00:00:00+00:00",
+        "note": "<p>Retired man. Enjoying life to the fullest and especially my friends. I do no cyber coin nor wish to hook up, those games are behind me. No room for hate and I include all as the tapestry of humankind. A weary warrior for peace and a livable world. PhD Geo Physics. I use the Kubuntu flavor of Linux<br>Pronouns: he/him</p>",
+        "url": "https://hostux.social/@bmacDonald94",
+        "uri": "https://hostux.social/users/bmacDonald94",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/416/673/919/496/501/original/89db1efed478f658.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/416/673/919/496/501/original/89db1efed478f658.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/416/673/919/496/501/original/8b2781386c8013f0.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/416/673/919/496/501/original/8b2781386c8013f0.jpg",
+        "followers_count": 703,
+        "following_count": 2378,
+        "statuses_count": 12788,
+        "last_status_at": "2023-09-22T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Photography",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Walking",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Reading",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Friends",
+                "value": "",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 110662147106360449,
+        "username": "dorzig",
+        "acct": "dorzig",
+        "display_name": "Doran Wetzel",
+        "locked": false,
+        "bot": false,
+        "discoverable": null,
+        "group": false,
+        "created_at": "2023-07-05T00:00:00+00:00",
+        "note": "<p>Music lover, music maker, art lover, art maker, comedy enjoyer, dad (so, only funny to me). He/Him. If I seem sarcastic, then you may have perceived me correctly.</p>",
+        "url": "https://mastodon.social/@dorzig",
+        "uri": "https://mastodon.social/users/dorzig",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/662/147/106/360/449/original/d79df3a15cd19733.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/662/147/106/360/449/original/d79df3a15cd19733.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/662/147/106/360/449/original/625e4d60767295db.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/662/147/106/360/449/original/625e4d60767295db.png",
+        "followers_count": 104,
+        "following_count": 383,
+        "statuses_count": 341,
+        "last_status_at": "2023-09-21T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": 109413803236889753,
+        "username": "diazona",
+        "acct": "diazona@techhub.social",
+        "display_name": "David Zaslavsky",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-11-27T00:00:00+00:00",
+        "note": "<p>Software engineer, former particle physicist, occasional blogger. I support the principle of cake.</p>",
+        "url": "https://techhub.social/@diazona",
+        "uri": "https://techhub.social/users/diazona",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/413/803/236/889/753/original/aba0dd2ba55e01e4.png",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/413/803/236/889/753/original/aba0dd2ba55e01e4.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 320,
+        "following_count": 288,
+        "statuses_count": 6058,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://www.ellipsix.net\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ellipsix.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/ellipsix\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/ellipsix</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "GitHub",
+                "value": "<a href=\"https://github.com/diazona\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/diazona</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-21T22:36:29.976+00:00"
+            }
+        ]
+    },
+    {
+        "id": 109395938531164386,
+        "username": "Tireironmonkey",
+        "acct": "Tireironmonkey@mastodon.world",
+        "display_name": "Tireironmonkey",
+        "locked": true,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-23T00:00:00+00:00",
+        "note": "<p>Many planets in the universe but this is the only one accepting renters, so best to get along and take care of it.<br>Don't ask me what I am, I'm still trying to sort  between animal, mineral, or vegetable. <br>People have their own worth that is not determined by external factors. Actions and words you use reveal your nature, so make it a good one.<br>Interests include but not limited to:<br><a href=\"https://mastodon.world/tags/cooking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cooking</span></a> <a href=\"https://mastodon.world/tags/composting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>composting</span></a> <a href=\"https://mastodon.world/tags/gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gardening</span></a> <a href=\"https://mastodon.world/tags/democracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>democracy</span></a> <a href=\"https://mastodon.world/tags/work\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>work</span></a> <a href=\"https://mastodon.world/tags/humor\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>humor</span></a> <a href=\"https://mastodon.world/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://mastodon.world/tags/culture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>culture</span></a> <a href=\"https://mastodon.world/tags/world\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>world</span></a> <a href=\"https://mastodon.world/tags/reading\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reading</span></a> <a href=\"https://mastodon.world/tags/literature\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>literature</span></a></p>",
+        "url": "https://mastodon.world/@Tireironmonkey",
+        "uri": "https://mastodon.world/users/Tireironmonkey",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/395/938/531/164/386/original/6fae616946ef8296.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/395/938/531/164/386/original/6fae616946ef8296.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/395/938/531/164/386/original/ccc89ccf293251f4.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/395/938/531/164/386/original/ccc89ccf293251f4.jpg",
+        "followers_count": 108,
+        "following_count": 136,
+        "statuses_count": 556,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "No hate Speech",
+                "value": "No Xenophobia, Racism, Religious or Cultural Prejudice",
+                "verified_at": null
+            },
+            {
+                "name": "No Stereotypes",
+                "value": "Especially Negative, but positive are harmful too",
+                "verified_at": null
+            },
+            {
+                "name": "No Body Shaming or Ableism",
+                "value": "No person has a perfect appearance or body.",
+                "verified_at": null
+            },
+            {
+                "name": "No Elitism",
+                "value": "Education, Job Title, Nor Income Determine Human Worth",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 109517848108611470,
+        "username": "Thortallmon",
+        "acct": "Thortallmon@mastodon.sdf.org",
+        "display_name": "Thor Tallmon",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-07T00:00:00+00:00",
+        "note": "<p>I make music I like, and hope some other people like too.  Super progressive on basically every issue.  Down to help the less fortunate and punch some nazis.</p><p>Thor Tallmon on most music platforms<br>Platforms</p><p>He/Him</p>",
+        "url": "https://mastodon.sdf.org/@Thortallmon",
+        "uri": "https://mastodon.sdf.org/users/Thortallmon",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/517/848/108/611/470/original/e9d9b93002d42521.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/517/848/108/611/470/original/e9d9b93002d42521.jpg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 30,
+        "following_count": 114,
+        "statuses_count": 265,
+        "last_status_at": "2023-09-07T00:00:00",
+        "emojis": [],
+        "fields": []
+    },
+    {
+        "id": 405724,
+        "username": "DavidNielsen",
+        "acct": "DavidNielsen",
+        "display_name": "Sir David Nielsen",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2018-08-07T00:00:00+00:00",
+        "note": "<p>Acclaimed beta tester of iOS and OS X software. Dachshund, Golden Retriever, iPad and iA Writer addict with a proclivity for Open Source and Apple. If there is music, then it is metal and hard rock. Officially knighted by <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@lisamelton\" class=\"u-url mention\">@<span>lisamelton</span></a></span>.</p>",
+        "url": "https://mastodon.social/@DavidNielsen",
+        "uri": "https://mastodon.social/users/DavidNielsen",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/405/724/original/c166a0e74d76a84c.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/405/724/original/c166a0e74d76a84c.jpeg",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 242,
+        "following_count": 195,
+        "statuses_count": 14663,
+        "last_status_at": "2023-09-22T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "Pronouns",
+                "value": "He/him (<a href=\"http://pronoun.is/he\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">pronoun.is/he</span><span class=\"invisible\"></span></a>)",
+                "verified_at": null
+            },
+            {
+                "name": "Differently able",
+                "value": "Tourette\u2019s, ADHD, likely Autistic",
+                "verified_at": null
+            },
+            {
+                "name": "Knighted on the 24th of July 2023",
+                "value": "<a href=\"https://mastodon.social/@lisamelton/110771028188732577\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@lisamelton/11</span><span class=\"invisible\">0771028188732577</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Religion",
+                "value": "Atheist",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 109371737585220848,
+        "username": "jordanhirsch",
+        "acct": "jordanhirsch@thepit.social",
+        "display_name": "Jordan Hirsch :vbike:",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-18T00:00:00+00:00",
+        "note": "<p>Leadership coach &amp; facilitator using serious fun to get serious results. Candy &amp; horror enthusiast.</p><p><a href=\"https://thepit.social/tags/searchable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>searchable</span></a><br><a href=\"https://thepit.social/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a><br><a href=\"https://thepit.social/tags/improv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>improv</span></a><br><a href=\"https://thepit.social/tags/coaching\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>coaching</span></a> <br><a href=\"https://thepit.social/tags/facilitation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>facilitation</span></a> </p><p>He/him</p><p>Learn more at <a href=\"https://jordanhirschcoaching.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">jordanhirschcoaching.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://thepit.social/@jordanhirsch",
+        "uri": "https://thepit.social/users/jordanhirsch",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/371/737/585/220/848/original/c6bd0c24fcec0b28.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/371/737/585/220/848/original/c6bd0c24fcec0b28.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/371/737/585/220/848/original/472ae7cd3e04edbb.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/371/737/585/220/848/original/472ae7cd3e04edbb.jpg",
+        "followers_count": 188,
+        "following_count": 611,
+        "statuses_count": 1150,
+        "last_status_at": "2023-09-19T00:00:00",
+        "emojis": [
+            {
+                "shortcode": "vbike",
+                "url": "https://files.mastodon.social/cache/custom_emojis/images/000/442/526/original/08719dadabb870c3.png",
+                "static_url": "https://files.mastodon.social/cache/custom_emojis/images/000/442/526/static/08719dadabb870c3.png",
+                "visible_in_picker": true
+            }
+        ],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://jordanhirschcoaching.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">jordanhirschcoaching.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Superpower",
+                "value": "Collaboration",
+                "verified_at": null
+            },
+            {
+                "name": "Pronouns",
+                "value": "He/him",
+                "verified_at": null
+            },
+            {
+                "name": "Favorite movie genre",
+                "value": "Horror",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 109808290376270741,
+        "username": "Leisureguy",
+        "acct": "Leisureguy@mstdn.ca",
+        "display_name": "Leisureguy",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2023-02-04T00:00:00+00:00",
+        "note": "<p>Retired in Victoria BC Canada. Interests include: cooking whole-food plant-based (incl. fermenting veggies &amp; making tempeh), blogging, shaving (old-school), reading, Go (baduk),  Nordic walking, movies, observing, learning, &amp; old jazz.</p><p>he/him</p><p>Mastodon for beginners: <a href=\"https://leisureguy.wordpress.com/2022/11/09/mastadon-fediverse/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">leisureguy.wordpress.com/2022/</span><span class=\"invisible\">11/09/mastadon-fediverse/</span></a> </p><p>My posts here:<br><a href=\"https://justmytoots.com/@leisureguy@mstdn.ca\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@leisureguy@ms</span><span class=\"invisible\">tdn.ca</span></a></p><p><a href=\"https://mstdn.ca/tags/cooking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cooking</span></a> <a href=\"https://mstdn.ca/tags/wfpb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wfpb</span></a> <a href=\"https://mstdn.ca/tags/fermentVegetables\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fermentVegetables</span></a> <a href=\"https://mstdn.ca/tags/tempeh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tempeh</span></a> <a href=\"https://mstdn.ca/tags/wetshaving\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wetshaving</span></a> <a href=\"https://mstdn.ca/tags/books\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>books</span></a> <a href=\"https://mstdn.ca/tags/go\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>go</span></a> <a href=\"https://mstdn.ca/tags/movies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>movies</span></a> <a href=\"https://mstdn.ca/tags/jazz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jazz</span></a> <a href=\"https://mstdn.ca/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a></p>",
+        "url": "https://mstdn.ca/@Leisureguy",
+        "uri": "https://mstdn.ca/users/Leisureguy",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/808/290/376/270/741/original/9136c6abc4d2ede5.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/808/290/376/270/741/original/9136c6abc4d2ede5.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/808/290/376/270/741/original/b73f0f9f82c3e613.jpeg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/808/290/376/270/741/original/b73f0f9f82c3e613.jpeg",
+        "followers_count": 575,
+        "following_count": 489,
+        "statuses_count": 6002,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Blog",
+                "value": "<a href=\"https://leisureguy.ca/about/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">leisureguy.ca/about/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-21T15:28:16.185+00:00"
+            },
+            {
+                "name": "Medium articles",
+                "value": "<a href=\"https://medium.com/@leisureguy\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">medium.com/@leisureguy</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Life planning",
+                "value": "<a href=\"https://leisureguy.wordpress.com/2017/03/27/reprise-of-coveys-7-habits/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">leisureguy.wordpress.com/2017/</span><span class=\"invisible\">03/27/reprise-of-coveys-7-habits/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Substack posts",
+                "value": "<a href=\"https://leisureguy.substack.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">leisureguy.substack.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 108196682398384171,
+        "username": "holupwat",
+        "acct": "holupwat",
+        "display_name": "Matthew Snyder",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-04-26T00:00:00+00:00",
+        "note": "<p>Trying to figure it out.</p>",
+        "url": "https://mastodon.social/@holupwat",
+        "uri": "https://mastodon.social/users/holupwat",
+        "avatar": "https://files.mastodon.social/accounts/avatars/108/196/682/398/384/171/original/f7013f328fbae2a4.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/108/196/682/398/384/171/original/f7013f328fbae2a4.png",
+        "header": "https://files.mastodon.social/accounts/headers/108/196/682/398/384/171/original/01bf492cffd5086b.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/108/196/682/398/384/171/original/01bf492cffd5086b.png",
+        "followers_count": 28,
+        "following_count": 236,
+        "statuses_count": 512,
+        "last_status_at": "2023-09-21T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": []
+    },
+    {
+        "id": 109389396149200687,
+        "username": "ke7zum",
+        "acct": "ke7zum@mastodon.cc",
+        "display_name": "Sarah A",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-21T00:00:00+00:00",
+        "note": "<p>Amateur radio operator, singer and flight simulator inthusiast.</p>",
+        "url": "https://mastodon.cc/@ke7zum",
+        "uri": "https://mastodon.cc/users/ke7zum",
+        "avatar": "https://mastodon.social/avatars/original/missing.png",
+        "avatar_static": "https://mastodon.social/avatars/original/missing.png",
+        "header": "https://mastodon.social/headers/original/missing.png",
+        "header_static": "https://mastodon.social/headers/original/missing.png",
+        "followers_count": 316,
+        "following_count": 287,
+        "statuses_count": 8255,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"http://flyingblind.us\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">flyingblind.us</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    }
+]

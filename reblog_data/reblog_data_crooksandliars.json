@@ -1,0 +1,94 @@
+[
+    {
+        "id": 110641555278107926,
+        "username": "blogdiva",
+        "acct": "blogdiva",
+        "display_name": "yes, it's me, liza \ud83c\uddf5\ud83c\uddf7  \ud83e\udd9b \ud83e\udda6",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2023-07-02T00:00:00+00:00",
+        "note": "<p>liza sabater, the og blogdiva and resident afroboricua tit\u00ed, finally riding the mammoth... and still fighting nazis</p>",
+        "url": "https://mastodon.social/@blogdiva",
+        "uri": "https://mastodon.social/users/blogdiva",
+        "avatar": "https://files.mastodon.social/accounts/avatars/110/641/555/278/107/926/original/60e39d3280d3b645.png",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/110/641/555/278/107/926/original/60e39d3280d3b645.png",
+        "header": "https://files.mastodon.social/accounts/headers/110/641/555/278/107/926/original/0d1a512f5ff128c7.jpeg",
+        "header_static": "https://files.mastodon.social/accounts/headers/110/641/555/278/107/926/original/0d1a512f5ff128c7.jpeg",
+        "followers_count": 1463,
+        "following_count": 771,
+        "statuses_count": 20013,
+        "last_status_at": "2023-09-21T00:00:00",
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "github",
+                "value": "<a href=\"https://github.com/liza\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">github.com/liza</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-07-08T01:36:29.309+00:00"
+            },
+            {
+                "name": "metafilter",
+                "value": "<a href=\"https://www.metafilter.com/user/63798\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">metafilter.com/user/63798</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "drupal",
+                "value": "<a href=\"https://drupal.org/u/liza\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">drupal.org/u/liza</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "meaneame",
+                "value": "<a href=\"https://meneame.net/user/liza/profile\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">meneame.net/user/liza/profile</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    {
+        "id": 58528,
+        "username": "woozle",
+        "acct": "woozle@toot.cat",
+        "display_name": "Woozle Hypertwin",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2017-04-06T00:00:00+00:00",
+        "note": "<p>1965-2165</p><p>See <a href=\"https://toot.cat/@woozle/109497174033876468\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">toot.cat/@woozle/1094971740338</span><span class=\"invisible\">76468</span></a> for extended profile</p><p><a href=\"https://justmytoots.com/@woozle@toot.cat\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">justmytoots.com/@woozle@toot.c</span><span class=\"invisible\">at</span></a></p>",
+        "url": "https://toot.cat/@woozle",
+        "uri": "https://toot.cat/users/woozle",
+        "avatar": "https://files.mastodon.social/accounts/avatars/000/058/528/original/260d1d22cdf8e191.jpeg",
+        "avatar_static": "https://files.mastodon.social/accounts/avatars/000/058/528/original/260d1d22cdf8e191.jpeg",
+        "header": "https://files.mastodon.social/accounts/headers/000/058/528/original/9f857eb13d7d081d.png",
+        "header_static": "https://files.mastodon.social/accounts/headers/000/058/528/original/9f857eb13d7d081d.png",
+        "followers_count": 1524,
+        "following_count": 406,
+        "statuses_count": 25266,
+        "last_status_at": "2023-09-21T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "hypertwin",
+                "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://toot.cat/@Harena\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Harena</span></a></span>",
+                "verified_at": null
+            },
+            {
+                "name": "creative site",
+                "value": "<a href=\"https://woozalia.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">woozalia.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2023-09-20T10:23:57.106+00:00"
+            },
+            {
+                "name": "pronouns",
+                "value": "feminine",
+                "verified_at": null
+            },
+            {
+                "name": "location",
+                "value": "Durham, NC",
+                "verified_at": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 109314174824503940,
+        "username": "moredread",
+        "acct": "moredread@universeodon.com",
+        "display_name": "SgtMoredread\ud83c\udde8\ud83c\udde6",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-11-09T00:00:00+00:00",
+        "note": "<p>Home Cook, Fl\u00e2neur, Epicure, skeptic, curious, determined.</p>",
+        "url": "https://universeodon.com/@moredread",
+        "uri": "https://universeodon.com/users/moredread",
+        "avatar": "https://files.mastodon.social/cache/accounts/avatars/109/314/174/824/503/940/original/67409d482902003b.jpg",
+        "avatar_static": "https://files.mastodon.social/cache/accounts/avatars/109/314/174/824/503/940/original/67409d482902003b.jpg",
+        "header": "https://files.mastodon.social/cache/accounts/headers/109/314/174/824/503/940/original/38c89070ebb13109.jpg",
+        "header_static": "https://files.mastodon.social/cache/accounts/headers/109/314/174/824/503/940/original/38c89070ebb13109.jpg",
+        "followers_count": 67,
+        "following_count": 134,
+        "statuses_count": 1286,
+        "last_status_at": "2023-09-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Retired federal civil servant",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Canada",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Ottawa",
+                "value": "",
+                "verified_at": null
+            },
+            {
+                "name": "Married",
+                "value": "",
+                "verified_at": null
+            }
+        ]
+    }
+]
