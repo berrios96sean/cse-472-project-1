@@ -5,3 +5,4 @@ clean:
 	rm -f ../*.json
 	rm -f ../reblog_data/*.json
 	rm -f ../*.pdf
+	rm -f ../account_data/*.json 

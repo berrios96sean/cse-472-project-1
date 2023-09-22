@@ -28,6 +28,7 @@ def main():
     print("Number of nodes in graph = ", graph.number_of_nodes())
     network_construction.drawSpringGraph(graph)
 
+
     # api_helper.postToot(mastodon, "HELLO")
 
 if __name__ == "__main__":

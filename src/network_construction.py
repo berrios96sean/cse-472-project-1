@@ -10,6 +10,7 @@ def loadJsonFile(jsonFile):
 
 def createDiffusionGraph(mastodon,data):
     graph = nx.DiGraph()
+    reblogs = []
     for toot in data: 
         user_id = toot['account']['username'] # using user account info 
         
@@ -17,18 +18,21 @@ def createDiffusionGraph(mastodon,data):
             graph.add_node(user_id, username=toot['account']['username'])
         
         mentions = toot.get('mentions', [])
-        reblogs = mastodon.status_reblogged_by(toot['id'])
-        data = json_helper.getJson(reblogs,4)
-        if not int(toot['reblogs_count']) == 0:
-            json_helper.writeToJsonFile('../reblog_data/reblog_data_'+toot['account']['username']+'.json',data)
+
         for mention in mentions:
             mentioned_username = mention['username']
             graph.add_edge(user_id, mentioned_username, action='mention')
-            
-        for reblog in reblogs:
-            reblog_username = reblog['username']
-            graph.add_edge(user_id, reblog_username, action='reblog')
-                        
+        if not int(toot['reblogs_count']) == 0: 
+            new_reblogs = mastodon.status_reblogged_by(toot['id'])
+            reblogs += new_reblogs
+    
+            for reblog in reblogs:
+                reblog_username = reblog['username']
+                graph.add_edge(user_id, reblog_username, action='reblog')
+    
+    data = json_helper.getJson(reblogs,4)
+
+    json_helper.writeToJsonFile('../reblog_data/reblog_data.json',data)          
     return graph
     
 def drawSpringGraph(graph):
