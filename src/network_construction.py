@@ -54,3 +54,30 @@ def drawSpringGraph(graph):
     )
     plt.savefig('../spring_graph.pdf',format='PDF')
 
+
+def printDegDistGraph():
+    with open('../classification_w_llama.json', 'r') as json_file:
+        data = json.load(json_file)
+
+    graphs = {' POSITIVE': nx.Graph(), ' NEUTRAL': nx.Graph(), ' NEGATIVE': nx.Graph()}
+
+    for entry in data:
+        username = entry["Username"]
+        classification = entry["Classification"]
+        content = entry["Content"]
+
+        graphs[classification].add_node(username)
+
+
+    for classification, graph in graphs.items():
+        degrees = dict(nx.degree(graph))
+        plt.hist(degrees.values(), bins=20, alpha=0.5, label=classification)
+
+    plt.xlabel('Degree')
+    plt.ylabel('Frequency')
+    plt.legend()
+    plt.title('Degree Distribution for Classified Groups')
+
+    plt.savefig('../degree_dist_graph.pdf')
+
+

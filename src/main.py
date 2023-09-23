@@ -4,6 +4,7 @@ import json
 import json_helper
 import network_construction
 import sys
+import classification
 
 def main(): 
     if len(sys.argv) > 1:
@@ -37,13 +38,12 @@ def main():
     c2 = data3[:-1] + ',' + data4[1:]
     c3 = c1[:-1] + ',' + c2[1:]
     json_helper.writeToJsonFile('../status_data/status_data.json',c3)  
-    user_list = []  # Initialize an empty list to store usernames
-    json_helper.extract_users_from_json('../results.json', user_list)
+    user_list = classification.getUserInfo()
+    classification.createJsonForLlamaResponses()
+    classification.writeClassificationJson()
+    classification.addUsersWithNoContent(user_list)
+    network_construction.printDegDistGraph()
 
-    # Write the list of unique usernames to a JSON file
-    output_file_path = '../user_nodes.json'
-    with open(output_file_path, 'w') as json_file:
-        json.dump(user_list, json_file)
 
     # api_helper.postToot(mastodon, "HELLO")
 
