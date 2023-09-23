@@ -1,4 +1,6 @@
 from mastodon import Mastodon
+import json 
+import json_helper
 
 # NOTE: not all of the variable here are needed. most were 
 # included during testing of the api instance and have not been removed. 
@@ -55,3 +57,21 @@ def postToot(mastodon, message):
 
 def getReblogs(mastodon,id):
     mastodon.status_reblogged_by(id)
+    
+def getStatusHashtags(mastodon,json_path,target_tag):
+    statuses = [] 
+    with open(json_path, 'r') as file:
+        user_data = json.load(file)
+    target_hashtag = target_tag
+    for user in user_data:
+        user_id = user['id']
+        print("Searching statuses for user: ",user['username'])
+        new_statuses = mastodon.account_statuses(user_id, tagged=target_hashtag, exclude_reblogs=True)
+        if new_statuses: 
+            print("Statused Found")
+        else: 
+            print("No Statuses found")
+        statuses += new_statuses
+    
+    data = json_helper.getJson(statuses,4)
+    return data

@@ -14,3 +14,31 @@ def getJson(result,indent):
     dump = json.dumps(result, indent=indent, default=serialize_datetime)
     return dump
 
+
+def extract_users_from_json(json_data, user_list):
+    
+    with open(json_data, 'r') as f: 
+        dataset = json.load(f)
+    # Check if the "account" key exists in the JSON data
+    for data in dataset:
+        username = data['account']['username']
+
+        if username not in user_list:
+            user_list.append(username)
+            
+def extract_reblog_users_from_json(json_data, user_list):
+    
+    with open(json_data, 'r') as f: 
+        dataset = json.load(f)
+    # Check if the "account" key exists in the JSON data
+    for data in dataset:
+        username = data['username']
+
+        if username not in user_list:
+            user_list.append(username)
+
+def write_users_to_json(user_list, output_file_path):
+    user_objects = [{"username": username} for username in user_list]
+
+    with open(output_file_path, 'w') as json_file:
+        json.dump(user_objects, json_file, indent=2)

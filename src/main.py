@@ -1,5 +1,6 @@
 from mastodon import Mastodon
 import api_helper
+import json 
 import json_helper
 import network_construction
 import sys
@@ -27,7 +28,22 @@ def main():
     graph = network_construction.createDiffusionGraph(mastodon,data)
     print("Number of nodes in graph = ", graph.number_of_nodes())
     network_construction.drawSpringGraph(graph)
+    print("############ -- Extracting Status Data -- ############")
+    data1 = api_helper.getStatusHashtags(mastodon,'../reblog_data/reblog_data.json','UniversalHealthcare')
+    data2 = api_helper.getStatusHashtags(mastodon,'../reblog_data/reblog_data.json','HealthcareCosts')
+    data3 = api_helper.getStatusHashtags(mastodon,'../reblog_data/reblog_data.json','PrivateHealthcare')
+    data4 = api_helper.getStatusHashtags(mastodon,'../reblog_data/reblog_data.json','MedicareForAll')
+    c1 = data1[:-1] + ',' + data2[1:]
+    c2 = data3[:-1] + ',' + data4[1:]
+    c3 = c1[:-1] + ',' + c2[1:]
+    json_helper.writeToJsonFile('../status_data/status_data.json',c3)  
+    user_list = []  # Initialize an empty list to store usernames
+    json_helper.extract_users_from_json('../results.json', user_list)
 
+    # Write the list of unique usernames to a JSON file
+    output_file_path = '../user_nodes.json'
+    with open(output_file_path, 'w') as json_file:
+        json.dump(user_list, json_file)
 
     # api_helper.postToot(mastodon, "HELLO")
 

@@ -17,16 +17,12 @@ def createDiffusionGraph(mastodon,data):
         if not graph.has_node(user_id):
             graph.add_node(user_id, username=toot['account']['username'])
         
-        mentions = toot.get('mentions', [])
 
-        for mention in mentions:
-            mentioned_username = mention['username']
-            graph.add_edge(user_id, mentioned_username, action='mention')
         if not int(toot['reblogs_count']) == 0: 
             new_reblogs = mastodon.status_reblogged_by(toot['id'])
             reblogs += new_reblogs
     
-            for reblog in reblogs:
+            for reblog in new_reblogs:
                 reblog_username = reblog['username']
                 graph.add_edge(user_id, reblog_username, action='reblog')
     
